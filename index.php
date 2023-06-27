@@ -6,22 +6,13 @@
  * @package Techie
  */
 
+ include_once 'header.php';
+
 ?>
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Techie</title>
-</head>
-<body>
-<header>Header</header>
 
+<div class="content">
 <h1>This is wordpress theme</h1>
 <p>This is a paragraph.</p>
 
-
-<footer>Footer</footer>
-
-
-</body>
-</html>
+</div>
