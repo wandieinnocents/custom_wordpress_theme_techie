@@ -6,8 +6,7 @@
  * @package Techie
  */
 
- include_once 'header.php';
-
+get_header();
 ?>
 
 
@@ -16,3 +15,5 @@
 <p>This is a paragraph.</p>
 
 </div>
+
+<?php get_footer(); ?>
